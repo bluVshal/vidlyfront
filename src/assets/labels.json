@@ -1,0 +1,13 @@
+[
+  {
+    "app": {
+      "form": {
+        "saveBtn": "save",
+        "cancelBtn": "cancel"
+      },
+      "appName": {
+        "name": "Vidly"
+      }
+    }
+  }
+]
